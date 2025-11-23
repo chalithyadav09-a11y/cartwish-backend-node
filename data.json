@@ -4,39 +4,39 @@
         "image": "mobile-phone.png",
         "products": [
             {
-                "title": "iPhone 14 Pro",
+                "title": "Chintu 15 Pro Max",
                 "description": "The iPhone 14 Pro is the latest flagship smartphone from Apple, featuring a stunning 6.1-inch OLED display, A16 Bionic chip, 128GB storage, and a triple-lens camera system. This phone also includes advanced features such as Face ID, wireless charging, and water resistance.",
                 "price": 1299,
                 "stock": 8,
                 "reviews": { "rate": 5, "counts": 50 },
                 "images": [
-                    "iphone14pro-1.jpg",
+                    "iphone14pro-1A.jpg",
                     "iphone14pro-2.jpg",
                     "iphone14pro-3.jpg",
                     "iphone14pro-4.jpg"
                 ]
             },
             {
-                "title": "Samsung Galaxy A54",
+                "title": "Mintu Galaxy S25 Ultra",
                 "description": "The Samsung Galaxy A54 is a mid-range smartphone with a 6.5-inch FHD+ Super AMOLED display, 4GB of RAM, 128GB of storage, and a quad-lens camera system. It also features a 5000mAh battery with fast charging capabilities and runs on Android 11 with One UI 3.1.",
                 "price": 399,
                 "stock": 50,
                 "reviews": { "rate": 4.2, "counts": 150 },
                 "images": [
-                    "samsung-a54-1.jpg",
+                    "samsung-a54-1A.jpeg",
                     "samsung-a54-2.jpg",
                     "samsung-a54-3.jpg",
                     "samsung-a54-4.jpg"
                 ]
             },
             {
-                "title": "Google Pixel 7 Pro",
+                "title": "Bahu Pixel 7 Pro",
                 "description": "The Google Pixel 7 Pro is a premium smartphone with a 6.5-inch QHD+ OLED display, 8GB of RAM, 256GB of storage, and a dual-lens camera system. It also features a 4500mAh battery with fast charging capabilities and runs on Android 12 with the latest version of Google Assistant.",
                 "price": 999,
                 "stock": 20,
                 "reviews": { "rate": 4.8, "counts": 75 },
                 "images": [
-                    "pixel-7-pro-1.jpg",
+                    "pixel-7-pro-1A.JPG",
                     "pixel-7-pro-2.jpg",
                     "pixel-7-pro-3.jpg",
                     "pixel-7-pro-4.jpg"
